@@ -1,4 +1,4 @@
-Resiliencia: En seguridad informática, es la capacidad de soportar y recuperarse de un incidente que afecte a la seguridad del sistema.
+• Resiliencia: En seguridad informática, es la capacidad de soportar y recuperarse de un incidente que afecte a la seguridad del sistema.
 • Sniffer: Un sniffer es una utilidad que permite monitorizar y analizar el tráfico de una red.
 • Offset: un offset dentro de un array u otra estructura de datos es un entero que indica la distancia (desplazamiento) desde el inicio del objeto hasta un punto o elemento dado.
 • Modo promiscuo: permite monitorizar todo el tráfico que circula por la red independientemente de que el origen o destino sea el host que se está analizando.
